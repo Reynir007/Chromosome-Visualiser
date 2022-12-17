@@ -1,5 +1,5 @@
 
-Chromosome Visualiser
+# Chromosome Visualiser
 
 Chromosome Visualiser is a web suite for visualising genome data with simple and elegant user interface
 
